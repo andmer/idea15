@@ -1,1 +1,3 @@
-# idea15
+# SETTINGS
+# idea
+# clion
